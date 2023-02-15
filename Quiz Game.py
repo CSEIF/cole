@@ -7,7 +7,7 @@ if playing != "yes":
 print("Okay! Lets play!")
 score = 0
 
-answer = input("""What is Meadow’s soccer coach’s name?
+answer = input("""What is Tony’s daughter's soccer coach’s name?
 A: Don Hauser
 B: Eric Taylor
 C: Mickey Goldmill
